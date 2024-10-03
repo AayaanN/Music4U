@@ -1,1 +1,1 @@
-A digital audio player, built for the Alterx MAX10 FPGA!
+A digital audio player, built for the Altera MAX10 FPGA!
